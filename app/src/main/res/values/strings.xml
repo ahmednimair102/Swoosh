@@ -17,4 +17,6 @@
     <string name="baller">BALLER</string>
     <string name="finnish">FINNISH</string>
     <string name="biginner">biginner</string>
+    <string name="search_league">looking for Co-ed beginner league near you.....</string>
+    <string name="finish">FINISH</string>
 </resources>
